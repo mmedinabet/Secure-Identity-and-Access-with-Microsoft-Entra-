@@ -144,3 +144,28 @@ select identit:
 7. Go the Project User 1 account to validate the steps above and active Azure DevOps Administrator 
 
 ![Screenshot 2024-02-28 2 55 36 PM](https://github.com/mmedinabet/Secure-Identity-and-Access-with-Microsoft-Entra-/assets/142737434/41c99303-b6a6-4df8-815e-e39d00fa30ad)
+
+8. Go back to the admin account
+9. Scroll throuh the main menu and expand the identity governance submenu
+10. Select the Privilege Identiy menu (PIM)
+11. Select approved requests and approve the request from Project User 1
+
+<h2> Monitor Identity Secure Score</h2>
+
+1. Go to www.entra.microsoft.com and log in with the admin credentials
+2. Go to the main menu and expand the protection submenu
+3. Click on show more and proceed to click Identity secure score
+
+![Screenshot 2024-02-28 3 06 11 PM](https://github.com/mmedinabet/Secure-Identity-and-Access-with-Microsoft-Entra-/assets/142737434/f3882190-5b31-47c5-a5de-23aba25a645f)
+
+The screenshot above displays the overrall score along with recommendations actions to improve it 
+
+<h2>Remove Created Users</h2>
+
+1. Go to www.entra.microsoft.com and log in with the admin credentials
+2. Go to the main menu and expand on the identity submenu 
+3. Expand users and select all users 
+4. Select both Project User 1 & 2 and delete them 
+
+![Screenshot 2024-02-28 3 11 37 PM](https://github.com/mmedinabet/Secure-Identity-and-Access-with-Microsoft-Entra-/assets/142737434/309278a9-9473-41e5-9905-2e157fe0091b)
+
