@@ -1,7 +1,6 @@
 <h1> Secure Identity and Access with Microsoft Entra </h1>
-This is hands-on guided project created by courseare that empowers students to navigate the intricacies of implementing and managing Microsoft Entra ID effectively. 
+This is hands-on guided project created by courseare that empowers students to navigate the intricacies of implementing and managing Microsoft Entra ID effectively. After completing this project, students will know how to : 
 
-After completing this project, students will know how to : 
 - Create users and groups
 
 - Assign users to groups
@@ -50,7 +49,7 @@ Managing users and groups is pivotal for efficient access control. Follow these 
    
 ![Screenshot 2024-02-28 11 58 26 AM](https://github.com/mmedinabet/Secure-Identity-and-Access-with-Microsoft-Entra-/assets/142737434/0df43a4b-a553-4167-ba92-0656f2d25aeb)
 
-6. Fill in the required information for the new user(Project User 1) 
+5. Fill in the required information for the new user(Project User 1) 
 
 ![Screenshot 2024-02-28 12 13 50 PM](https://github.com/mmedinabet/Secure-Identity-and-Access-with-Microsoft-Entra-/assets/142737434/418a760e-6b9f-4442-a14b-279c329c21a6)
 
@@ -193,4 +192,4 @@ The "Secure Identity and Access with Microsoft Entra" project provides a compreh
 
 - Removing Created Users: Understand the process of removing users from the system when necessary.
 
-  Through guidance and practical exercises, I was able to acquire the skills and knowledge required to effectively manage identity and access in Microsoft Entra, ensuring robust security measures are in place.
+Through guidance and practical exercises, I was able to acquire the skills and knowledge required to effectively manage identity and access in Microsoft Entra, ensuring robust security measures are in place.
