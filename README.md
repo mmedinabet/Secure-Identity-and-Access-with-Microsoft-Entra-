@@ -1,5 +1,5 @@
 <h1> Secure Identity and Access with Microsoft Entra </h1>
-This is hands-on guided project created by courseare that empowers students to navigate the intricacies of implementing and managing Microsoft Entra ID effectively. After completing this project, students will know how to : 
+This is hands-on guided project that empowers students to navigate the intricacies of implementing and managing Microsoft Entra ID effectively. After completing this project, students will know how to : 
 
 - Create users and groups
 
